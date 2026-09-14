@@ -1,205 +1,189 @@
 <div align="center">
 
-# JAYA SRI PRASANNA VENKATESH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JAYA%20SRI%20PRASANNA%20VENKATESH&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=DEVELOPER%20%7C%20UI%2FUX%20%7C%20AI%20EXPLORER&descSize=16&descAlignY=62&color=0:050505,35:170000,65:5c0808,100:090909" width="100%" alt="Cinematic superhero-inspired header" />
 
-### B.Tech Information Technology Student
-**UI/UX Designer · Developer · AI Enthusiast**
+### ⚡ **TECH. DESIGN. INTELLIGENCE.**
+*Building digital experiences with an engineering mindset and a cinematic product vision.*
 
-<p><i>Building digital experiences · Designing useful products · Exploring AI · Turning ideas into applications</i></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-sri-prasanna-venkatesh-b1b16b335/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasriprasannavenkatesh-star)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:312e81,100:0f172a&section=header" alt="Decorative gradient divider" width="100%" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-sri-prasanna-venkatesh-b1b16b335/)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasriprasannavenkatesh-star)
 
 </div>
 
-## ✦ THE BUILDER
+---
 
-> **I enjoy transforming ideas into useful digital products through software development, UI/UX design and emerging AI technologies.**
+## 🛡️ THE BUILDER
 
-I am a B.Tech Information Technology student focused on the intersection of **engineering, product design and AI**. I learn by building practical applications, experimenting with interfaces and turning concepts into working experiences.
+> **B.Tech Information Technology student focused on UI/UX, software development and emerging AI applications.**
 
-### 01 — DESIGN
-`UI/UX` · `Figma` · `Product Design`
+I turn ideas into practical digital products by combining **development + product thinking + visual design**. My goal is simple: learn fast, build useful things, and keep leveling up.
 
-### 02 — DEVELOP
-`Java` · `Python` · `JavaScript` · `Android` · `Web`
+### ◈ CORE IDENTITY
 
-### 03 — EXPLORE
-`AI` · `DSA` · `Automation` · `Emerging Technologies`
+| SYSTEM | CAPABILITY |
+|---|---|
+| `01` | **ENGINEER** — Java · Python · C/C++ · JavaScript |
+| `02` | **DESIGNER** — UI/UX · Figma · Canva · Product Design |
+| `03` | **BUILDER** — Web · Android · Flutter · JDBC · MySQL |
+| `04` | **EXPLORER** — AI · Automation · DSA · New Technologies |
 
 ---
 
-## ◈ TECH STACK
+## ⚙️ THE ARMORY — TECH STACK
 
-### Programming
+**Languages**  
 `C` `C++` `Java` `Python` `JavaScript`
 
-### Web
-`HTML` `CSS` `JavaScript` `Bootstrap`
+**Web & App Development**  
+`HTML` `CSS` `JavaScript` `Bootstrap` `Android` `Flutter`
 
-### Database
+**Data & Backend**  
 `MySQL` `SQL` `JDBC`
 
-### Development
-`Android` `Flutter` `Git` `GitHub`
+**Design & Product**  
+`Figma` `Canva` `UI/UX` `Product Design`
 
-### Design
-`Figma` `Canva` `UI/UX`
+**Tools**  
+`Git` `GitHub` `VS Code` `Android Studio`
 
-### AI & Future Technologies
-`Artificial Intelligence` `AI Applications` `Automation`
+**Future Focus**  
+`Artificial Intelligence` `AI Applications` `Automation` `DSA`
 
 ---
 
-## ⌁ FEATURED PROJECTS
+## 🚀 MISSION CONTROL — FEATURED PROJECTS
 
-### ChatSphere
-**Modern communication platform concept**
+### 🔴 ChatSphere
+**A modern communication platform concept**
 
-Messaging · Emoji & reactions · Stickers/GIFs · Media sharing · Voice/video concepts · Profiles · Search · Notifications · Dark/light UI
+Messaging · reactions · stickers/GIFs · media · profiles · search · notifications · dark/light interface
 
 `JavaScript` `Web` `UI/UX`
 
----
+### 🟡 Patient Medicine Reminder
+**A patient-friendly reminder experience**
 
-### Patient Medicine Reminder
-**Patient-friendly medication reminder concept**
-
-Reminder scheduling · Family notification concept · Simple dashboard · Accessible UX
+Reminder scheduling · family notification concept · simple dashboard · accessible UX
 
 `UI/UX` `Application Concept`
 
----
-
-### Student Management System
+### 🔵 Student Management System
 **Java + JDBC database application**
 
-Student CRUD · MySQL integration · Search · Update/delete · Structured interface
+Student CRUD · MySQL integration · search · update/delete · structured interface
 
 `Java` `JDBC` `MySQL`
 
----
-
-### Mahalakshmi Sarees
+### 🟣 Mahalakshmi Sarees
 **E-commerce experience**
 
-Product browsing · Product cards · Categories · Shopping experience · Responsive UI
+Product browsing · product cards · categories · responsive shopping experience
 
 `HTML` `CSS` `JavaScript`
 
----
-
-### AI Assistant
+### 🟢 AI Assistant
 **AI-powered personal assistant concept**
 
-AI interaction · Voice interface concept · Application automation · Smart assistant experience
+AI interaction · voice interface concept · application automation · smart assistant experience
 
 `AI` `Automation` `Application Development`
 
----
-
-### Fusion Developer / PV UX Designs
+### ⚪ Fusion Developer / PV UX Designs
 **Personal digital product & design brand**
 
-UI/UX experiments · Product concepts · Web experiences · Creative development
+UI/UX experiments · product concepts · web experiences · creative development
 
 `UI/UX` `Web` `Product Design`
 
 ---
 
-## ⟡ GITHUB DASHBOARD
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayasriprasannavenkatesh-star&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=8b5cf6&rank_icon=github" alt="GitHub statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasriprasannavenkatesh-star&hide_border=true&background=00000000&stroke=374151&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasriprasannavenkatesh-star&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" alt="Most used programming languages" />
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT SPOTLIGHT
+## 🏆 ACHIEVEMENT CORE
 
 <div align="center">
 
 ### TCS CodeVita Season 13
 
-**Global Rank · 9669**  
+**GLOBAL RANK · 9669**  
 Issuer · **TCS**
 
 </div>
 
 ---
 
-## ◉ CURRENTLY BUILDING
-
-| Focus | Status |
-|---|---|
-| AI Applications | ● Exploring |
-| Modern Web Experiences | ● Building |
-| UI/UX Projects | ● Building |
-| Android Applications | ● Learning |
-| Developer Tools | ● Exploring |
-| Startup / Product Ideas | ● Exploring |
-
----
-
-## ⟢ DEVELOPER JOURNEY
+## 📡 CURRENT STATUS
 
 ```text
-2024
-Started B.Tech Information Technology
-        ↓
-2025
-Expanded programming + web development
-        ↓
-2026
-Exploring AI, UI/UX and application development
-        ↓
-NEXT
-Build real-world products and launch useful digital experiences
+╔══════════════════════════════════════════════╗
+║              DEVELOPER STATUS                ║
+╠══════════════════════════════════════════════╣
+║ UI/UX Design          █████████░  ACTIVE     ║
+║ Web Development       ████████░░  BUILDING   ║
+║ AI Applications       ██████░░░░  EXPLORING  ║
+║ Android Development   ██████░░░░  LEARNING   ║
+║ DSA / Problem Solving ███████░░░  TRAINING   ║
+║ Product / Startup     █████░░░░░  EXPLORING  ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## ▣ PROFILE SNAPSHOT
+## 🧭 DEVELOPER JOURNEY
 
-<div align="center">
-
-| 05 | 06 | 05 | 01 |
-|:---:|:---:|:---:|:---:|
-| **Public Repositories** | **Listed Projects / Concepts** | **Core Languages** | **CodeVita Achievement** |
-
-</div>
-
-> **Note:** Repository and language counts are kept conservative and based on the currently represented GitHub/profile information; no fabricated follower, star, contribution, or project metrics are shown here.
+```text
+2024  ──►  Started B.Tech Information Technology
+             │
+2025  ──►  Expanded programming + web development
+             │
+2026  ──►  Exploring AI + UI/UX + application development
+             │
+NEXT  ──►  Build real-world products and ship useful experiences
+```
 
 ---
 
-## ↗ CONNECT
+## 📊 GITHUB INTELLIGENCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayasriprasannavenkatesh-star&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=d1d5db&icon_color=ff3b30&rank_icon=github" alt="GitHub statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasriprasannavenkatesh-star&hide_border=true&background=050505&stroke=3f3f46&ring=ff3b30&fire=ffb000&currStreakLabel=ffffff&sideLabels=d1d5db&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasriprasannavenkatesh-star&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=d1d5db" alt="Most used programming languages" />
+
+</div>
+
+---
+
+## 🎯 NEXT OBJECTIVES
+
+- Build stronger full-stack applications
+- Grow UI/UX and product design skills
+- Explore practical AI-powered applications
+- Improve DSA and problem-solving ability
+- Turn product ideas into usable prototypes
+- Build a portfolio that demonstrates real engineering work
+
+---
+
+## 🤝 ALLIANCE / CONNECT
 
 <div align="center">
 
 [**GitHub**](https://github.com/jayasriprasannavenkatesh-star) · [**LinkedIn**](https://www.linkedin.com/in/jaya-sri-prasanna-venkatesh-b1b16b335/) · [**Portfolio**](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
 
-</div>
+<br><br>
 
----
+### **BUILD. LEARN. DESIGN. SHIP.**
+*Turning ideas into useful digital experiences.*
 
-<div align="center">
-
-## BUILD. LEARN. DESIGN. SHIP.
-
-**Turning ideas into useful digital experiences.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:312e81,100:111827&section=footer" alt="Decorative gradient footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:090909,45:5c0808,70:170000,100:050505&section=footer" width="100%" alt="Cinematic footer" />
 
 </div>
 
-<!-- GitHub READMEs do not execute arbitrary JavaScript/CSS. Motion is therefore represented with lightweight SVG visuals and Markdown-compatible elements rather than unsupported interactivity. -->
+<!--
+Design direction: cinematic superhero / high-tech command-center aesthetic.
+The design uses original visual language rather than Marvel logos, characters, or copyrighted artwork.
+GitHub profile READMEs do not execute arbitrary CSS/JavaScript, so animation is represented through lightweight external SVG/banner effects and dynamic stats images.
+-->
