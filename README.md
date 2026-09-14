@@ -1,117 +1,205 @@
 <div align="center">
 
-# Jaya Sri Prasanna Venkatesh
+# JAYA SRI PRASANNA VENKATESH
 
-### B.Tech IT Student · Creative Developer · UI/UX Enthusiast · AI & App Builder
+### B.Tech Information Technology Student
+**UI/UX Designer · Developer · AI Enthusiast**
 
-**I turn ideas into clean, useful, and polished digital experiences.**
+<p><i>Building digital experiences · Designing useful products · Exploring AI · Turning ideas into applications</i></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-sri-prasanna-venkatesh-b1b16b335/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasriprasannavenkatesh-star)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:312e81,100:0f172a&section=header" alt="Decorative gradient divider" width="100%" />
+
+</div>
+
+## ✦ THE BUILDER
+
+> **I enjoy transforming ideas into useful digital products through software development, UI/UX design and emerging AI technologies.**
+
+I am a B.Tech Information Technology student focused on the intersection of **engineering, product design and AI**. I learn by building practical applications, experimenting with interfaces and turning concepts into working experiences.
+
+### 01 — DESIGN
+`UI/UX` · `Figma` · `Product Design`
+
+### 02 — DEVELOP
+`Java` · `Python` · `JavaScript` · `Android` · `Web`
+
+### 03 — EXPLORE
+`AI` · `DSA` · `Automation` · `Emerging Technologies`
+
+---
+
+## ◈ TECH STACK
+
+### Programming
+`C` `C++` `Java` `Python` `JavaScript`
+
+### Web
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+### Database
+`MySQL` `SQL` `JDBC`
+
+### Development
+`Android` `Flutter` `Git` `GitHub`
+
+### Design
+`Figma` `Canva` `UI/UX`
+
+### AI & Future Technologies
+`Artificial Intelligence` `AI Applications` `Automation`
+
+---
+
+## ⌁ FEATURED PROJECTS
+
+### ChatSphere
+**Modern communication platform concept**
+
+Messaging · Emoji & reactions · Stickers/GIFs · Media sharing · Voice/video concepts · Profiles · Search · Notifications · Dark/light UI
+
+`JavaScript` `Web` `UI/UX`
+
+---
+
+### Patient Medicine Reminder
+**Patient-friendly medication reminder concept**
+
+Reminder scheduling · Family notification concept · Simple dashboard · Accessible UX
+
+`UI/UX` `Application Concept`
+
+---
+
+### Student Management System
+**Java + JDBC database application**
+
+Student CRUD · MySQL integration · Search · Update/delete · Structured interface
+
+`Java` `JDBC` `MySQL`
+
+---
+
+### Mahalakshmi Sarees
+**E-commerce experience**
+
+Product browsing · Product cards · Categories · Shopping experience · Responsive UI
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### AI Assistant
+**AI-powered personal assistant concept**
+
+AI interaction · Voice interface concept · Application automation · Smart assistant experience
+
+`AI` `Automation` `Application Development`
+
+---
+
+### Fusion Developer / PV UX Designs
+**Personal digital product & design brand**
+
+UI/UX experiments · Product concepts · Web experiences · Creative development
+
+`UI/UX` `Web` `Product Design`
+
+---
+
+## ⟡ GITHUB DASHBOARD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayasriprasannavenkatesh-star&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=8b5cf6&rank_icon=github" alt="GitHub statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasriprasannavenkatesh-star&hide_border=true&background=00000000&stroke=374151&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasriprasannavenkatesh-star&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" alt="Most used programming languages" />
+
 </div>
 
 ---
 
-## 👋 About Me
+## 🏆 ACHIEVEMENT SPOTLIGHT
 
-I'm a **B.Tech Information Technology student** interested in building software that looks good, works well, and solves real problems.
+<div align="center">
 
-- 💻 Web, Android & application development
-- 🎨 UI/UX design and product thinking
-- 🤖 AI-powered applications and experiments
-- 🧠 Java, Python, JavaScript, SQL & problem solving
-- 🚀 Startup and product-building mindset
-- 🔧 Learning by building practical projects
+### TCS CodeVita Season 13
 
-> **My goal:** grow from a developer who builds projects into an engineer who can design, ship, and improve complete products.
+**Global Rank · 9669**  
+Issuer · **TCS**
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## ◉ CURRENTLY BUILDING
 
-| Area | Technologies |
+| Focus | Status |
 |---|---|
-| **Languages** | C · C++ · Java · Python · JavaScript |
-| **Web** | HTML · CSS · JavaScript · React · Bootstrap |
-| **Mobile** | Android Studio · Java/Kotlin · Flutter |
-| **Database** | SQL · MySQL · JDBC |
-| **Design** | Figma · Canva · UI/UX |
-| **Tools** | Git · GitHub · VS Code |
+| AI Applications | ● Exploring |
+| Modern Web Experiences | ● Building |
+| UI/UX Projects | ● Building |
+| Android Applications | ● Learning |
+| Developer Tools | ● Exploring |
+| Startup / Product Ideas | ● Exploring |
 
 ---
 
-## 🚀 Featured Work
-
-### 🌐 Portfolio Website
-A personal portfolio focused on modern visual design, responsive layouts, animation, and project presentation.
-
-### 📱 Android Applications
-Java/Kotlin-based Android projects exploring practical mobile interfaces and application functionality.
-
-### 🎨 UI/UX Concepts
-Interface concepts, user flows, visual systems, prototypes, and product-focused design experiments.
-
-### 🗃️ Student Management System
-A Java + JDBC + MySQL project demonstrating CRUD operations and database connectivity.
-
----
-
-## 🧭 My Development Path
+## ⟢ DEVELOPER JOURNEY
 
 ```text
-Design & UX
-    ↓
-Frontend Engineering
-    ↓
-Mobile & App Development
-    ↓
-AI-powered Applications
-    ↓
-Product Engineering
-    ↓
-Startup Building
+2024
+Started B.Tech Information Technology
+        ↓
+2025
+Expanded programming + web development
+        ↓
+2026
+Exploring AI, UI/UX and application development
+        ↓
+NEXT
+Build real-world products and launch useful digital experiences
 ```
 
 ---
 
-## 📈 What I'm Working On
+## ▣ PROFILE SNAPSHOT
 
-- Building stronger real-world projects
-- Improving Java, Python, JavaScript and SQL
-- Practicing DSA and problem solving
-- Learning better Git/GitHub workflows
-- Exploring AI integration in applications
-- Improving product design and UX thinking
+<div align="center">
 
----
+| 05 | 06 | 05 | 01 |
+|:---:|:---:|:---:|:---:|
+| **Public Repositories** | **Listed Projects / Concepts** | **Core Languages** | **CodeVita Achievement** |
 
-## ⭐ What You'll Find Here
+</div>
 
-I want this GitHub to show **progress, not just code**:
-
-- Clean and understandable repositories
-- Useful project documentation
-- Meaningful commit history
-- Screenshots and demos where useful
-- Clear project structure
-- Practical applications instead of tutorial-only projects
+> **Note:** Repository and language counts are kept conservative and based on the currently represented GitHub/profile information; no fabricated follower, star, contribution, or project metrics are shown here.
 
 ---
 
-## 🤝 Open To
+## ↗ CONNECT
 
-**Internships · Collaborations · Student Projects · UI/UX Opportunities · Software Development · AI/App Ideas**
+<div align="center">
 
-If you're interested in building something useful, let's connect.
+[**GitHub**](https://github.com/jayasriprasannavenkatesh-star) · [**LinkedIn**](https://www.linkedin.com/in/jaya-sri-prasanna-venkatesh-b1b16b335/) · [**Portfolio**](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build · Learn · Design · Ship 🚀
+## BUILD. LEARN. DESIGN. SHIP.
 
-**Portfolio:** [jayasriprasannavenkatesh-star.github.io/my-best-portfolo](https://jayasriprasannavenkatesh-star.github.io/my-best-portfolo/)
+**Turning ideas into useful digital experiences.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:312e81,100:111827&section=footer" alt="Decorative gradient footer" width="100%" />
 
 </div>
+
+<!-- GitHub READMEs do not execute arbitrary JavaScript/CSS. Motion is therefore represented with lightweight SVG visuals and Markdown-compatible elements rather than unsupported interactivity. -->
